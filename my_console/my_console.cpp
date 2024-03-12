@@ -9,7 +9,7 @@ int main()
 {
     setlocale(LC_ALL, "Rus");
 
-
+    cout << "";
 
 
     std::cout << "Hello World!\n";
